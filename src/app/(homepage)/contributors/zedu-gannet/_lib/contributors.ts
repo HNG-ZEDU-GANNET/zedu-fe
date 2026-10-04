@@ -8,7 +8,7 @@ export const contributors: Contributor[] = [
   {
     id: "gannet-01",
     name: "Elisha Ebeye",
-    username: "@elishaelebeye",
+    username: "@elishaebeye",
   },
   {
     id: "gannet-02",
