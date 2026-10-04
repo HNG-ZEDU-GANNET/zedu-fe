@@ -45,4 +45,19 @@ export const contributors: Contributor[] = [
     name: "Tega Erusiafe",
     username: "@Tega",
   },
+  {
+    id: "gannet-09",
+    name: "Kefas Lungu",
+    username: "@TechMarchal",
+  },
+  {
+    id: "gannet-10",
+    name: "Olaleye Precious",
+    username: "@preciousolaleye",
+  },
+  {
+    id: "gannet-11",
+    name: "Franchesca Meju",
+    username: "@Franchescameju",
+  },
 ];

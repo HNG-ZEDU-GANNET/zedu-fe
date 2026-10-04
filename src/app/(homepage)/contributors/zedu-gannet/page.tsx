@@ -5,7 +5,9 @@ import { siteUrl } from "~/lib/env-urls";
 import { contributors } from "./_lib/contributors";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl() || "http://localhost:3000"),
+  metadataBase: process.env.NEXT_PUBLIC_CLIENT_URL
+    ? new URL(siteUrl())
+    : undefined,
   title: "Team Zedu-Gannet Contributors",
   description:
     "Meet Team Zedu-Gannet — contributors building collaborative learning experiences on Zedu.",
