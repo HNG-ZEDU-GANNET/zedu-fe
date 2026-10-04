@@ -7,27 +7,37 @@ export interface Contributor {
 export const contributors: Contributor[] = [
   {
     id: "gannet-01",
-    name: "Amara Okafor",
-    username: "@amara_lead",
+    name: "Elisha Ebeye",
+    username: "@elishaelebeye",
   },
   {
     id: "gannet-02",
-    name: "David Vance",
-    username: "@david_fe",
+    name: "Anthony Ifeanyi",
+    username: "@tonycypher",
   },
   {
     id: "gannet-03",
-    name: "Elena Rostova",
-    username: "@elena_ux",
+    name: "PM",
+    username: "@pm",
   },
   {
     id: "gannet-04",
-    name: "Kelechi Nnamdi",
-    username: "@kelechi_dev",
+    name: "Adewumi Oluwasanmi",
+    username: "@AdewumiOluwasanmi",
   },
   {
     id: "gannet-05",
-    name: "Sophia Martinez",
-    username: "@sophia_qa",
+    name: "Jenie",
+    username: "@jenie",
+  },
+  {
+    id: "gannet-06",
+    name: "Ufuoma Sheme",
+    username: "@sheme",
+  },
+  {
+    id: "gannet-07",
+    name: "Ifunanya Izuoba",
+    username: "@ifunanya",
   },
 ];
