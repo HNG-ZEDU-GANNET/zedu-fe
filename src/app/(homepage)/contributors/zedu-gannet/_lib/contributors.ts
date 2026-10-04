@@ -17,8 +17,8 @@ export const contributors: Contributor[] = [
   },
   {
     id: "gannet-03",
-    name: "PM",
-    username: "@pm",
+    name: "Chiduso Arinze",
+    username: "@chiduso",
   },
   {
     id: "gannet-04",
@@ -33,11 +33,16 @@ export const contributors: Contributor[] = [
   {
     id: "gannet-06",
     name: "Ufuoma Sheme",
-    username: "@sheme",
+    username: "@UfuomaSheme",
   },
   {
     id: "gannet-07",
     name: "Ifunanya Izuoba",
     username: "@ifunanya",
+  },
+  {
+    id: "gannet-08",
+    name: "Tega Erusiafe",
+    username: "@Tega",
   },
 ];

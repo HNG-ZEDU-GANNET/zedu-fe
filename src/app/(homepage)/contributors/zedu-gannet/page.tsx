@@ -5,19 +5,12 @@ import { siteUrl } from "~/lib/env-urls";
 import { contributors } from "./_lib/contributors";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl() || "http://localhost:3000"),
   title: "Team Zedu-Gannet Contributors",
   description:
     "Meet Team Zedu-Gannet — contributors building collaborative learning experiences on Zedu.",
   icons: {
     icon: "/TelexIcon.svg",
-  },
-  openGraph: {
-    title: "Team Zedu-Gannet Contributors",
-    description:
-      "Meet Team Zedu-Gannet — contributors building collaborative learning experiences on Zedu.",
-    url: siteUrl("/contributors/zedu-gannet"),
-    siteName: "Zedu",
-    type: "website",
   },
   alternates: {
     canonical: siteUrl("/contributors/zedu-gannet"),
