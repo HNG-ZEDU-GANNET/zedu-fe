@@ -22,7 +22,7 @@ export const contributors: Contributor[] = [
   },
   {
     id: "gannet-04",
-    name: "Adewumi Oluwasanmi",
+    name: "Adewumi (MotionBoy) Oluwasanmi",
     username: "@AdewumiOluwasanmi",
   },
   {
