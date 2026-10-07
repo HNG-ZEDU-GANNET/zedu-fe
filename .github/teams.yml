@@ -13,4 +13,18 @@
 #
 # Keep handles as plain logins (no @). Fill this in as teams form.
 
-teams: {}
+teams:
+  gannet:
+    leads:
+      - tony-cypher
+    members:
+      - elishaebeye
+      - chiduso
+      - AdewumiOluwasanmi
+      - jenie
+      - UfuomaSheme
+      - ifunanya
+      - Tega
+      - TechMarchal
+      - preciousolaleye
+      - Franchescameju
